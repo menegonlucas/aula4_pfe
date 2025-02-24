@@ -30,5 +30,7 @@ Implementar uma interface de cadastro de atletas utilizando **cards** e um **for
     esporte: "string",
     categoria: "string"
 }
-![image](https://github.com/user-attachments/assets/c8500b64-a74e-488c-a335-916facbf1c8c)
+```js
+![image](https://github.com/user-attachments/assets/1ef59bd9-4dad-48c9-9eba-d304d92a1764)
+
 
