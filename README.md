@@ -21,6 +21,7 @@
 
 # Desafio  
 Implementar uma interface de cadastro de atletas utilizando **cards** e um **formulário em modal**. O cadastro deve persistir localmente no navegador.  
+![image](https://github.com/user-attachments/assets/1ef59bd9-4dad-48c9-9eba-d304d92a1764)
 
 ### Modelo do objeto  
 ```js
@@ -30,7 +31,6 @@ Implementar uma interface de cadastro de atletas utilizando **cards** e um **for
     esporte: "string",
     categoria: "string"
 }
-```js
-![image](https://github.com/user-attachments/assets/1ef59bd9-4dad-48c9-9eba-d304d92a1764)
+
 
 
