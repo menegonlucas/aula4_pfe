@@ -17,11 +17,9 @@
 - **1.4.3** Atributos  
 - **1.4.4** Funções Internas  
 
-### 1.6 Canvas  
+### 1.5 Web Storage  
 
-### 1.8 Web Storage  
-
-## Desafio  
+# Desafio  
 Implementar uma interface de cadastro de atletas utilizando **cards** e um **formulário em modal**. O cadastro deve persistir localmente no navegador.  
 
 ### Modelo do objeto  
@@ -32,3 +30,5 @@ Implementar uma interface de cadastro de atletas utilizando **cards** e um **for
     esporte: "string",
     categoria: "string"
 }
+![image](https://github.com/user-attachments/assets/c8500b64-a74e-488c-a335-916facbf1c8c)
+
